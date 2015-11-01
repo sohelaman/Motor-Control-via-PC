@@ -1,0 +1,13 @@
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\bin\Debug\MotorControl.exe.config
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\bin\Debug\MotorControl.exe
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\bin\Debug\MotorControl.pdb
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.csprojResolveAssemblyReference.cache
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.Form1.resources
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.Properties.Resources.resources
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.csproj.GenerateResource.Cache
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.exe
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.pdb
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\bin\Debug\MotorControl.exe.manifest
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\bin\Debug\MotorControl.application
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.exe.manifest
+C:\Users\Sohel\Documents\Visual Studio 2013\Projects\MotorControl\MotorControl\obj\Debug\MotorControl.application
