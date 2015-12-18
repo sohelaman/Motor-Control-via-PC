@@ -125,6 +125,7 @@
             this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
+            "COM0",
             "COM1",
             "COM2",
             "COM3",
@@ -134,7 +135,17 @@
             "COM7",
             "COM8",
             "COM9",
-            "COM0"});
+            "COM10",
+            "COM11",
+            "COM12",
+            "COM13",
+            "COM14",
+            "COM15",
+            "COM16",
+            "COM17",
+            "COM18",
+            "COM19",
+            "COM20"});
             this.comboBox1.Location = new System.Drawing.Point(109, 49);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(76, 21);

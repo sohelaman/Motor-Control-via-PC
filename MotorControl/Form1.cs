@@ -15,7 +15,7 @@ namespace MotorControl
         public Form1()
         {
             InitializeComponent();
-            comboBox1.SelectedIndex = 0;
+            comboBox1.SelectedIndex = 1;
             comboBox2.SelectedIndex = 3;
             try
             {
