@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MotorControl.exe" size="20408">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MotorControl.exe" size="23480">
       <assemblyIdentity name="MotorControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TYVvMmdr4bKQVE1nNeftZd2XlFY9kGhne55NwvpfZMU=</dsig:DigestValue>
+        <dsig:DigestValue>5bZ7PB5WMy3GHmcNOS5zOx1npdV9bpad80x4vvt5ys8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
